@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> Projeto maven criado para testar funcionalidades do site [Getnet](https://site.getnet.com.br/),
+> Projeto maven criado para testar funcionalidades do site [Getnet](https://site.getnet.com.br/).
 > Ferrramentas utilizadas: Selenium Web Driver, JUnit, Cucumber, e Selenium Grid
 
 ### 🏠 [Homepage](https://site.getnet.com.br/)
