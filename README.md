@@ -4,9 +4,6 @@
   <a href="https://site.getnet.com.br/" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://twitter.com/JuuhGranja" target="_blank">
-    <img alt="Twitter: JuuhGranja" src="https://img.shields.io/twitter/follow/JuuhGranja.svg?style=social" />
-  </a>
 </p>
 
 > Projeto maven criado para testar funcionalidades do site [Getnet](https://site.getnet.com.br/).
@@ -50,4 +47,3 @@ Abra o Blue Ocean, e execute os testes no botão Run.
 * LinkedIn: [@jussaragranja](https://linkedin.com/in/jussaragranja)
 * Github: [@jussaragranja](https://github.com/jussaragranja)
 * GitLab: [@jussaragranja](https://gitlab.com/jussaragranja)
-* Twitter: [@JuuhGranja](https://twitter.com/JuuhGranja)
